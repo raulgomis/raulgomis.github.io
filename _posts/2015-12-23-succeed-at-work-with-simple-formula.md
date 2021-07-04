@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-    <img src="{ site.url }}{{ site.baseurl }}/images/posts/maths.jpg" alt="Maths board" itemprop="image" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/maths.jpg" alt="Maths board" itemprop="image" />
 </figure>
 
 Many people think that successful people owe it more to luck than anything else. It is somehow true, luck is really important but, it does not make the difference at all. Luck is random, you will be lucky sometimes and sometimes not. When I hear someone tell me how lucky I am, I respond: “Yes! and the harder I work, the luckier I get”. This is the key to succeed.
@@ -18,7 +18,7 @@ Many people think that successful people owe it more to luck than anything else.
 When I hear someone tell me how lucky I am, I respond: “Yes! and the harder I work, the luckier I get”.
 The formula is very simple, it works just with three elements: Knowledge, Skills and Attitude. 
 
-<img class="center" src="{ site.url }}{{ site.baseurl }}/images/posts/formula.png" width="258" height="76">
+<img class="center" src="{{ site.url }}{{ site.baseurl }}/images/posts/formula.png" width="258" height="76">
 
 Let's analyze the meaning of each element:
 
