@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Raúl Gomis"
   avatar : "https://pbs.twimg.com/profile_images/474175171377373185/2qUBM1vO.jpeg"
-  bio    : "Software Manager @Atlassian | MBA | MSc in Computer Engineering | Sports lover | If Not Me, Who? If Not Now, When?"
+  bio    : "Software Manager @Atlassian, MSc in Computer Engineering, If Not Me, Who? If Not Now, When?"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
