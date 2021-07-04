@@ -94,9 +94,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -111,3 +112,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: UA-65610163-1
